@@ -5,7 +5,7 @@ I enjoy building simple projects and improving my problem-solving skills.
 
 ## 💻 Skills
 - HTML & CSS
-- JavaScript (Basics)
+- JavaScript
 - MySQL & Database Design (ERD)
 - Network Engineering
 
