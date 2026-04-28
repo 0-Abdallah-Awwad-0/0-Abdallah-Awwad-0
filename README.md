@@ -1,6 +1,6 @@
 # Hi, I'm Abdallah 👋
 
-I'm a beginner developer learning web development and databases.  
+I'm a developer learning web development and databases.  
 I enjoy building simple projects and improving my problem-solving skills.
 
 ## 💻 Skills
