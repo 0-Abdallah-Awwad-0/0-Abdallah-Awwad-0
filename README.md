@@ -1,101 +1,121 @@
-# Hi, I'm Abdallah Awwad 👋
+Hi, I'm Abdallah Awwad 👋
 
-## Telecommunication Engineer | Full-Stack Developer in Progress
+Full-Stack Developer | Back-End Focus | Telecommunication Engineer
 
-I am a **Telecommunication Engineer** with a strong background in **mobile telecommunications, network telecommunications, MATLAB, and C++**.
-I am currently expanding my skills into **full-stack web development**, focusing on building practical and dynamic web applications using modern technologies.
+I'm a Palestinian developer based in Nablus with a background in Telecommunication Engineering and hands-on experience building web applications with Java and Spring Boot, Python and Django, and the MERN stack.
 
----
+I enjoy working on the logic behind an application: connecting data, building APIs, handling validation, and turning requirements into working features. Through team projects at Axsos Academy, I've gained experience developing features, troubleshooting issues, and collaborating with Git and GitHub.
 
-## About Me
+I'm looking for junior back-end and full-stack development opportunities.
 
-* 🎓 Telecommunication Engineering background
-* 📡 Interested in mobile networks, communication systems, and networking
-* 💻 Learning and building full-stack web applications
-* 🧠 Always improving my problem-solving and programming skills
-* 🚀 Interested in combining engineering knowledge with software development
+LinkedIn · Email · GitHub
 
----
+About Me
 
-## Technical Skills
+🎓 Telecommunication Engineering background, with an interest in networks and communication systems.
 
-### Web Development
+💻 Building full-stack applications, with a particular interest in back-end development.
 
-* HTML
-* CSS
-* JavaScript
-* AJAX
-* Tailwind CSS
+🤝 Comfortable collaborating through feature branches, small commits, and shared repositories.
 
-### Backend Development
+🧠 Developing my problem-solving skills and understanding of data structures and algorithms.
 
-* Python
-* Flask
-* Django
+🔬 Interested in popular science, practical AI applications, and sharing what I learn.
 
-### Databases
+Technical Skills
 
-* SQL
-* MySQL
+Area
 
-### Engineering & Programming
+Technologies
 
-* Mobile Telecommunications
-* Network Telecommunications
-* MATLAB
-* C++
+Languages
 
----
+Java, Python, JavaScript, SQL, HTML, CSS
 
-## What I’m Working On
+Back End
 
-* Building Django and Flask web applications
-* Improving my backend development skills
-* Practicing algorithms and problem solving
-* Creating clean, responsive user interfaces with Tailwind CSS
-* Learning how to build complete full-stack projects from idea to deployment
+Spring Boot, Django, Flask, Node.js, Express.js
 
----
+Front End
 
-## Featured Project Ideas
+React, Vite, Tailwind CSS, Material UI
 
-Some projects I am interested in building:
+Databases
 
-* Admin dashboards
-* Appointment management systems
-* Content management platforms
-* Football content dashboard
-* Telecom/network monitoring dashboard
-* Full-stack CRUD applications
+MySQL, MongoDB
 
----
+Development Tools
 
-## Tech Stack
+Git, GitHub, IntelliJ IDEA, VS Code
 
-```text
-Frontend:   HTML | CSS | JavaScript | AJAX | Tailwind CSS
-Backend:    Python | Flask | Django
-Database:   SQL | MySQL
-Engineering: MATLAB | C++ | Mobile Telecom | Network Telecom
-```
+Engineering
 
----
+Telecommunications, networking, MATLAB, C++
 
-## GitHub Goals
+Featured Team Projects
 
-* Build real-world projects
-* Improve code quality and structure
-* Practice clean commits and documentation
-* Grow as a full-stack developer
-* Connect software development with telecommunication engineering
+The following projects were built collaboratively with teammates. Each links to our shared repository.
 
----
+🏫 ZeSchool — School Connection Platform
 
-## Connect With Me
+A school platform bringing parent and teacher dashboards, student information, grades, reports, calendars, and transportation views into one place.
 
-* GitHub: [0-Abdallah-Awwad-0](https://github.com/0-Abdallah-Awwad-0)
-* Email: [abdallah22awwad11@gmail.com](mailto:abdallah22awwad11@gmail.com)
+Stack: React, Vite, Node.js, Express.js, MongoDB / Mongoose.
 
----
+My work: Contributed to login and registration validation and back-end bus-routing logic, including work with Dijkstra's algorithm. Collaborated on feature integration and debugging through Git branches.
 
-> “Engineering taught me how systems work. Programming is teaching me how to build them.”
+The project is under development, with dashboard prototypes and ongoing back-end integration.
+
+Explore ZeSchool →
+
+🛍️ HerjaHub — Palestinian Artisans Marketplace
+
+A marketplace giving Palestinian artisans a space to showcase their handmade products. Customers can browse stores and products, manage a cart, and place orders, while store owners manage their storefronts and listings.
+
+Stack: Java, Spring Boot, Spring MVC, Spring Data JPA, MySQL, JSP / JSTL.
+
+My work: Contributed to marketplace features and AI-assisted product recommendation integration, collaborating with teammates through Git branches.
+
+Explore HerjaHub →
+
+🏗️ BINNA | بناء — Construction Marketplace
+
+A construction marketplace for the Palestinian market, connecting customers with suppliers and building materials. The team project also explores AI-assisted blueprint analysis and material estimation.
+
+Stack: Python, Django, HTML, Tailwind CSS, JavaScript.
+
+My work: Built customer-facing stores and products pages using Django templates, views, routing, and database-driven content. Worked with teammates through feature branches.
+
+Explore BINNA →
+
+Learning Repositories
+
+Alongside team projects, I keep repositories documenting my coursework and practice:
+
+MERN Stack — JavaScript, React, Node.js, Express, and MongoDB.
+
+Java Stack — Java and Spring Boot practice.
+
+Python Stack — Python and Django coursework.
+
+Web Fundamentals — HTML, CSS, and JavaScript foundations.
+
+Current Focus
+
+Strengthening back-end development, API design, authentication, and validation.
+
+Improving existing projects and making my code easier to understand and maintain.
+
+Practising technical interviews and explaining the reasoning behind my code.
+
+Sharing my development journey and connecting with other developers.
+
+Let's Connect
+
+I'm interested in junior development roles and opportunities to build useful applications with a team.
+
+LinkedIn: Abdallah Awwad
+
+Email: abdallah22awwad11@gmail.com
+
+Location: Nablus, Palestine
