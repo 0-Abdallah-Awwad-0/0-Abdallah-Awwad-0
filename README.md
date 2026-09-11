@@ -1,121 +1,147 @@
+<div align="center">
+
 Hi, I'm Abdallah Awwad 👋
 
-Full-Stack Developer | Back-End Focus | Telecommunication Engineer
+Full-Stack Developer · Back-End Focus · Telecommunication Engineer
 
-I'm a Palestinian developer based in Nablus with a background in Telecommunication Engineering and hands-on experience building web applications with Java and Spring Boot, Python and Django, and the MERN stack.
+Building web applications, learning through teamwork, and connecting engineering with software.
 
-I enjoy working on the logic behind an application: connecting data, building APIs, handling validation, and turning requirements into working features. Through team projects at Axsos Academy, I've gained experience developing features, troubleshooting issues, and collaborating with Git and GitHub.
+📍 Nablus, Palestine · Open to junior back-end and full-stack opportunities
 
-I'm looking for junior back-end and full-stack development opportunities.
 
-LinkedIn · Email · GitHub
+
+
+
+About Me · Tech Stack · Featured Projects · Learning Journey
+
+</div>
 
 About Me
 
-🎓 Telecommunication Engineering background, with an interest in networks and communication systems.
+I'm a Palestinian full-stack developer with a background in Telecommunication Engineering and hands-on experience with Spring Boot, Django, and the MERN stack.
 
-💻 Building full-stack applications, with a particular interest in back-end development.
+I enjoy the logic behind an application: modelling data, building APIs, handling validation, and connecting the front end to the back end. Through team projects at Axsos Academy, I've gained experience developing features, debugging issues, and collaborating through Git branches.
 
-🤝 Comfortable collaborating through feature branches, small commits, and shared repositories.
+💻 Main interest: Back-end development and practical web applications.
 
-🧠 Developing my problem-solving skills and understanding of data structures and algorithms.
+🤝 How I work: Focused changes, clear commits, and collaboration with teammates.
 
-🔬 Interested in popular science, practical AI applications, and sharing what I learn.
+🧠 Currently improving: Algorithms, API design, authentication, and technical communication.
 
-Technical Skills
+🔬 Beyond coding: Telecommunications, popular science, and sharing what I learn.
 
-Area
-
-Technologies
+Tech Stack
 
 Languages
 
-Java, Python, JavaScript, SQL, HTML, CSS
 
-Back End
 
-Spring Boot, Django, Flask, Node.js, Express.js
 
-Front End
 
-React, Vite, Tailwind CSS, Material UI
 
-Databases
 
-MySQL, MongoDB
 
-Development Tools
+Back End and Databases
 
-Git, GitHub, IntelliJ IDEA, VS Code
 
-Engineering
 
-Telecommunications, networking, MATLAB, C++
 
-Featured Team Projects
 
-The following projects were built collaboratively with teammates. Each links to our shared repository.
+
+
+
+
+Front End and Tools
+
+
+
+
+
+
+
+
+Engineering background: Mobile telecommunications · Networking · MATLAB · C++
+
+Featured Projects
+
+Built collaboratively with teammates. Click a project title or its repository button to explore the code.
 
 🏫 ZeSchool — School Connection Platform
 
-A school platform bringing parent and teacher dashboards, student information, grades, reports, calendars, and transportation views into one place.
+A platform bringing parents and teachers together through dashboards for student information, grades, reports, calendars, and transportation views.
 
-Stack: React, Vite, Node.js, Express.js, MongoDB / Mongoose.
+React · Vite · Node.js · Express · MongoDB / Mongoose
 
-My work: Contributed to login and registration validation and back-end bus-routing logic, including work with Dijkstra's algorithm. Collaborated on feature integration and debugging through Git branches.
+My contributions: Login and registration validation, back-end bus-routing logic using Dijkstra's algorithm, and integration debugging with teammates.
 
-The project is under development, with dashboard prototypes and ongoing back-end integration.
+Development stage: Dashboard prototypes with ongoing back-end integration.
 
-Explore ZeSchool →
+
 
 🛍️ HerjaHub — Palestinian Artisans Marketplace
 
-A marketplace giving Palestinian artisans a space to showcase their handmade products. Customers can browse stores and products, manage a cart, and place orders, while store owners manage their storefronts and listings.
+A marketplace where Palestinian artisans can showcase handmade products. Customers browse stores, manage a cart, and place orders, while store owners manage their storefronts and listings.
 
-Stack: Java, Spring Boot, Spring MVC, Spring Data JPA, MySQL, JSP / JSTL.
+Java · Spring Boot · Spring MVC · Spring Data JPA · MySQL · JSP / JSTL
 
-My work: Contributed to marketplace features and AI-assisted product recommendation integration, collaborating with teammates through Git branches.
+My contributions: Marketplace features and AI-assisted product recommendation integration, developed collaboratively through Git branches.
 
-Explore HerjaHub →
+Project focus: Customer shopping flows and store management.
+
+
 
 🏗️ BINNA | بناء — Construction Marketplace
 
-A construction marketplace for the Palestinian market, connecting customers with suppliers and building materials. The team project also explores AI-assisted blueprint analysis and material estimation.
+A construction marketplace for Palestine connecting customers with suppliers and building materials. The team project also explores AI-assisted blueprint analysis and material estimation.
 
-Stack: Python, Django, HTML, Tailwind CSS, JavaScript.
+Python · Django · HTML · Tailwind CSS · JavaScript
 
-My work: Built customer-facing stores and products pages using Django templates, views, routing, and database-driven content. Worked with teammates through feature branches.
+My contributions: Customer-facing stores and products pages using Django templates, views, routing, and database-driven content.
 
-Explore BINNA →
+Project focus: Helping customers explore suppliers and construction products in one platform.
 
-Learning Repositories
 
-Alongside team projects, I keep repositories documenting my coursework and practice:
 
-MERN Stack — JavaScript, React, Node.js, Express, and MongoDB.
+Learning Journey
 
-Java Stack — Java and Spring Boot practice.
+My coursework and practice repositories document the foundations behind these projects.
 
-Python Stack — Python and Django coursework.
+Repository
 
-Web Fundamentals — HTML, CSS, and JavaScript foundations.
+What I practise
 
-Current Focus
+⚛️ MERN Stack
 
-Strengthening back-end development, API design, authentication, and validation.
+JavaScript, React, Node.js, Express, and MongoDB
 
-Improving existing projects and making my code easier to understand and maintain.
+☕ Java Stack
 
-Practising technical interviews and explaining the reasoning behind my code.
+Java and Spring Boot
 
-Sharing my development journey and connecting with other developers.
+🐍 Python Stack
 
-Let's Connect
+Python and Django
 
-I'm interested in junior development roles and opportunities to build useful applications with a team.
+🌐 Web Fundamentals
 
-LinkedIn: Abdallah Awwad
+HTML, CSS, and JavaScript
 
-Email: abdallah22awwad11@gmail.com
+What I'm Working Toward
 
-Location: Nablus, Palestine
+Building stronger back ends with clear APIs, validation, and access control.
+
+Improving my existing projects and their documentation.
+
+Practising problem solving and explaining technical decisions.
+
+Sharing my development journey and learning from other developers.
+
+<div align="center">
+
+Let's build something useful.
+
+I'm interested in junior back-end and full-stack roles and opportunities to grow with a team.
+
+Connect on LinkedIn · Send me an email · Explore my repositories
+
+</div>
