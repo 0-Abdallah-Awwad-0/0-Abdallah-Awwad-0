@@ -33,6 +33,8 @@ These are collaborative projects. The details below describe my contributions.
 
 A team-built marketplace that gives Palestinian artisans a place to showcase their work and helps customers discover products that fit their needs and budget.
 
+https://github.com/user-attachments/assets/fcb99b69-eeb7-4e86-8226-b54582236a2e
+
 **Java · Spring Boot · Spring Data JPA · MySQL · JSP**
 
 **My contributions**
