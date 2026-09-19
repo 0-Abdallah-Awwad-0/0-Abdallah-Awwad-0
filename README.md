@@ -29,10 +29,25 @@ I'm interested in what happens behind the screen: how data is structured, how ac
 
 These are collaborative projects. The details below describe my contributions.
 
+### HerjaHub — Palestinian Artisans Marketplace
+
+A team-built marketplace that gives Palestinian artisans a place to showcase their work and helps customers discover products that fit their needs and budget.
+
+**Java · Spring Boot · Spring Data JPA · MySQL · JSP**
+
+**My contributions**
+- **Accounts and inventory:** contributed features supporting account access and sellers' stock management.
+- **Shopping cart:** helped customers select products before placing an order.
+- **Product recommendations:** worked on an assistant that matches customer needs and budgets with products.
+
+**[Explore the repository →](https://github.com/Aws1811/HerjaHub)**  
+[Watch the customer & AI demo](https://drive.google.com/file/d/1aF33h4sTqKwSHGZS-ITVHbmEZjOm0nSs/view) · [Watch the store-owner demo](https://drive.google.com/file/d/1n23M23-xcT9Td6M65YKKrTdBapVpkeyZ/view) · [Explore the AI request controller](https://github.com/Aws1811/HerjaHub/blob/main/HerjaHub/herjahub/src/main/java/com/axsos/project/controllers/AIController.java)
+
+### Other projects
+
 | Project | What it helps people do | Explore |
 | :--- | :--- | :--- |
 | **[ZeSchool](https://github.com/Aws1811/ZeSchool)** | Bring student information, school communication and bus details into one parent-teacher platform. | [View repository →](https://github.com/Aws1811/ZeSchool) |
-| **[HerjaHub](https://github.com/Aws1811/HerjaHub)** | Give Palestinian artisans a place to sell their work and customers a way to discover products. | [View repository →](https://github.com/Aws1811/HerjaHub) · [Watch demo →](https://drive.google.com/file/d/1aF33h4sTqKwSHGZS-ITVHbmEZjOm0nSs/view) |
 | **[BINNA](https://github.com/RamezAtallah-9r/Binna)** | Help customers explore construction suppliers and building materials in Palestine. | [View repository →](https://github.com/RamezAtallah-9r/Binna) |
 
 <details>
@@ -43,17 +58,6 @@ These are collaborative projects. The details below describe my contributions.
 - Helped debug integrations with teammates so the interface and back end worked together.
 
 **Start here:** [Browse the project files](https://github.com/Aws1811/ZeSchool).
-
-</details>
-
-<details>
-<summary><strong>🛍️ HerjaHub — explore my contributions and demos</strong></summary>
-
-- Contributed to **account, inventory and shopping-cart features**.
-- Worked on a **product recommendation assistant** that searches for products matching a customer's needs and budget.
-- Collaborated through Git branches to integrate marketplace features.
-
-**Explore:** [Customer experience and AI demo](https://drive.google.com/file/d/1aF33h4sTqKwSHGZS-ITVHbmEZjOm0nSs/view) · [Store-owner demo](https://drive.google.com/file/d/1n23M23-xcT9Td6M65YKKrTdBapVpkeyZ/view) · [AI request controller](https://github.com/Aws1811/HerjaHub/blob/main/HerjaHub/herjahub/src/main/java/com/axsos/project/controllers/AIController.java).
 
 </details>
 
