@@ -1,147 +1,128 @@
 <div align="center">
 
-Hi, I'm Abdallah Awwad 👋
+<h1>Abdallah Awwad</h1>
 
-Full-Stack Developer · Back-End Focus · Telecommunication Engineer
+<h3>Back-end focused full-stack developer · Telecommunications engineer</h3>
 
-Building web applications, learning through teamwork, and connecting engineering with software.
+<p>I build the logic behind useful web applications.</p>
 
-📍 Nablus, Palestine · Open to junior back-end and full-stack opportunities
+<p><strong>Palestine · Open to junior back-end and full-stack opportunities</strong></p>
 
+<a href="mailto:abdallah22awwad11@gmail.com"><img src="https://img.shields.io/badge/Email_me-0969DA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abdallah" /></a>
+<a href="https://www.linkedin.com/in/abdallah-awwad-"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+<a href="https://github.com/0-Abdallah-Awwad-0?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
 
-
-
-
-About Me · Tech Stack · Featured Projects · Learning Journey
+<p>
+<a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
+<a href="#toolkit">Toolkit</a> &nbsp;·&nbsp;
+<a href="#beyond-the-code">My background</a> &nbsp;·&nbsp;
+<a href="#lets-talk">Contact</a>
+</p>
 
 </div>
 
-About Me
+---
 
-I'm a Palestinian full-stack developer with a background in Telecommunication Engineering and hands-on experience with Spring Boot, Django, and the MERN stack.
+I'm interested in what happens behind the screen: how data is structured, how access is controlled, and how an application handles a request that goes wrong. Through **620+ hours of full-stack training at AXSOS Academy** and team projects, I've worked on school platforms, marketplaces and career-matching prototypes.
 
-I enjoy the logic behind an application: modelling data, building APIs, handling validation, and connecting the front end to the back end. Through team projects at Axsos Academy, I've gained experience developing features, debugging issues, and collaborating through Git branches.
+## Featured projects
 
-💻 Main interest: Back-end development and practical web applications.
+These are collaborative projects. The details below describe my contributions.
 
-🤝 How I work: Focused changes, clear commits, and collaboration with teammates.
+| Project | What it helps people do | Explore |
+| :--- | :--- | :--- |
+| **[ZeSchool](https://github.com/Aws1811/ZeSchool)** | Bring student information, school communication and bus details into one parent-teacher platform. | [View repository →](https://github.com/Aws1811/ZeSchool) |
+| **[HerjaHub](https://github.com/Aws1811/HerjaHub)** | Give Palestinian artisans a place to sell their work and customers a way to discover products. | [View repository →](https://github.com/Aws1811/HerjaHub) · [Watch demo →](https://drive.google.com/file/d/1aF33h4sTqKwSHGZS-ITVHbmEZjOm0nSs/view) |
+| **[BINNA](https://github.com/RamezAtallah-9r/Binna)** | Help customers explore construction suppliers and building materials in Palestine. | [View repository →](https://github.com/RamezAtallah-9r/Binna) |
 
-🧠 Currently improving: Algorithms, API design, authentication, and technical communication.
+<details>
+<summary><strong>🏫 ZeSchool — explore my contributions</strong></summary>
 
-🔬 Beyond coding: Telecommunications, popular science, and sharing what I learn.
+- Worked on **login and registration validation** and account access.
+- Contributed **child dashboards and bus-route planning**, including Dijkstra-based routing logic.
+- Helped debug integrations with teammates so the interface and back end worked together.
 
-Tech Stack
+**Start here:** [Browse the project files](https://github.com/Aws1811/ZeSchool).
 
-Languages
+</details>
 
+<details>
+<summary><strong>🛍️ HerjaHub — explore my contributions and demos</strong></summary>
 
+- Contributed to **account, inventory and shopping-cart features**.
+- Worked on a **product recommendation assistant** that searches for products matching a customer's needs and budget.
+- Collaborated through Git branches to integrate marketplace features.
 
+**Explore:** [Customer experience and AI demo](https://drive.google.com/file/d/1aF33h4sTqKwSHGZS-ITVHbmEZjOm0nSs/view) · [Store-owner demo](https://drive.google.com/file/d/1n23M23-xcT9Td6M65YKKrTdBapVpkeyZ/view) · [AI request controller](https://github.com/Aws1811/HerjaHub/blob/main/HerjaHub/herjahub/src/main/java/com/axsos/project/controllers/AIController.java).
 
+</details>
 
+<details>
+<summary><strong>🏗️ BINNA — explore my contributions</strong></summary>
 
+- Built **customer-facing stores and product pages**.
+- Connected templates, views and routes to **database-backed content**.
+- Contributed to the marketplace experience within the team's construction platform.
 
+**Start here:** [Project overview and source code](https://github.com/RamezAtallah-9r/Binna).
 
-Back End and Databases
+</details>
 
+<details>
+<summary><strong>🔎 More work — career matching and message security</strong></summary>
 
+**TAP Launchpad · Hackathon prototype**
 
+Built a bilingual prototype that analyzes CVs and matches candidates with project opportunities. Added skill roadmaps and employer review features to help candidates plan their next steps and employers assess potential matches.
 
+**Enhanced Steganography · Graduation project**
 
+Developed a message-hiding method using randomized bit placement and a recovery key to control retrieval of hidden information.
 
+</details>
 
+## Toolkit
 
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-417E38?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/MongoDB-116149?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
-Front End and Tools
+**In practice:** REST APIs · Validation · Authentication and access control · Data modelling · Git collaboration · Debugging
 
+<details>
+<summary><strong>Browse my coursework and practice repositories</strong></summary>
 
+| Repository | Focus |
+| :--- | :--- |
+| [MERN Stack](https://github.com/0-Abdallah-Awwad-0/MERN_Stack) | Full-stack application exercises |
+| [Java Stack](https://github.com/0-Abdallah-Awwad-0/Java-stack) | Object-oriented programming and web applications |
+| [Python Stack](https://github.com/0-Abdallah-Awwad-0/python_stack) | Programming foundations and web development |
+| [Web Fundamentals](https://github.com/0-Abdallah-Awwad-0/Web-Fundamentals) | Page structure, styling and browser interaction |
 
+</details>
 
+## Beyond the code
 
+Before moving into software, I repaired phones at **Laptop City**. I built repair partnerships with other stores, introduced a social media presence, helped launch refurbished-phone sales and improved repair quality. That experience taught me to understand the customer's problem before choosing a solution.
 
+I hold a **BSc in Telecommunication Engineering** from Arab American University, with additional experience as a network intern at Paltel and a university research assistant.
 
+**How I work:** focused changes, clear commits and collaboration with teammates.  
+**Languages:** Arabic and English.  
+**Outside work:** popular science and sharing what I learn.
 
-Engineering background: Mobile telecommunications · Networking · MATLAB · C++
+## Let's talk
 
-Featured Projects
+I'm looking for a junior back-end or full-stack role where I can contribute to a team and keep developing my engineering skills.
 
-Built collaboratively with teammates. Click a project title or its repository button to explore the code.
+**[Email me](mailto:abdallah22awwad11@gmail.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/abdallah-awwad-)**
 
-🏫 ZeSchool — School Connection Platform
-
-A platform bringing parents and teachers together through dashboards for student information, grades, reports, calendars, and transportation views.
-
-React · Vite · Node.js · Express · MongoDB / Mongoose
-
-My contributions: Login and registration validation, back-end bus-routing logic using Dijkstra's algorithm, and integration debugging with teammates.
-
-Development stage: Dashboard prototypes with ongoing back-end integration.
-
-
-
-🛍️ HerjaHub — Palestinian Artisans Marketplace
-
-A marketplace where Palestinian artisans can showcase handmade products. Customers browse stores, manage a cart, and place orders, while store owners manage their storefronts and listings.
-
-Java · Spring Boot · Spring MVC · Spring Data JPA · MySQL · JSP / JSTL
-
-My contributions: Marketplace features and AI-assisted product recommendation integration, developed collaboratively through Git branches.
-
-Project focus: Customer shopping flows and store management.
-
-
-
-🏗️ BINNA | بناء — Construction Marketplace
-
-A construction marketplace for Palestine connecting customers with suppliers and building materials. The team project also explores AI-assisted blueprint analysis and material estimation.
-
-Python · Django · HTML · Tailwind CSS · JavaScript
-
-My contributions: Customer-facing stores and products pages using Django templates, views, routing, and database-driven content.
-
-Project focus: Helping customers explore suppliers and construction products in one platform.
-
-
-
-Learning Journey
-
-My coursework and practice repositories document the foundations behind these projects.
-
-Repository
-
-What I practise
-
-⚛️ MERN Stack
-
-JavaScript, React, Node.js, Express, and MongoDB
-
-☕ Java Stack
-
-Java and Spring Boot
-
-🐍 Python Stack
-
-Python and Django
-
-🌐 Web Fundamentals
-
-HTML, CSS, and JavaScript
-
-What I'm Working Toward
-
-Building stronger back ends with clear APIs, validation, and access control.
-
-Improving my existing projects and their documentation.
-
-Practising problem solving and explaining technical decisions.
-
-Sharing my development journey and learning from other developers.
-
-<div align="center">
-
-Let's build something useful.
-
-I'm interested in junior back-end and full-stack roles and opportunities to grow with a team.
-
-Connect on LinkedIn · Send me an email · Explore my repositories
-
-</div>
+<sub><a href="#abdallah-awwad">Back to top ↑</a></sub>
